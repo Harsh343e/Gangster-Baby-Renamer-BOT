@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "RenameBotGroup")
 
 DB_NAME = os.environ.get("DB_NAME","Cluster0")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://Harsh:Harsh9421806556@cluster0.2y4oa4n.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://Chiku:Harsh9421806556@cluster0.t613z7i.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
